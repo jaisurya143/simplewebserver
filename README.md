@@ -49,7 +49,8 @@ httpd.serve_forever()
 ## OUTPUT:
 
 
-C:\Users\SEC\OneDrive\Pictures\Screenshots\Screenshot 2023-09-09 155010.png
+![image](https://github.com/jaisurya143/simplewebserver/assets/121999338/9dc32b0e-42cd-47a4-898e-0d92002b99a8)
+
 C:\Users\SEC\OneDrive\Pictures\Screenshots\Screenshot 2023-09-09 154947.png
 
 ## RESULT:
