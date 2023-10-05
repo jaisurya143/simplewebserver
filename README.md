@@ -49,7 +49,7 @@ httpd.serve_forever()
 ## OUTPUT:
 
 
-C:\Users\SEC\OneDrive\Pictures\Screenshots\Screenshot 2023-09-09 155010.png![Screenshot 2023-05-18 094616]
+C:\Users\SEC\OneDrive\Pictures\Screenshots\Screenshot 2023-09-09 155010.png
 C:\Users\SEC\OneDrive\Pictures\Screenshots\Screenshot 2023-09-09 154947.png
 
 ## RESULT:
