@@ -17,9 +17,6 @@ Testing the webserver
 
 ## PROGRAM:
 ```
-from http.server import HTTPServer, BaseHTTPRequestHandler
-content = """
-<!DOCTYPE html>
 <html>
 <head>
 <title>My webserver</title>
